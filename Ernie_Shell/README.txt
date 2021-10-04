@@ -1,5 +1,5 @@
 CS 452 - Lab 1
-Created by: Molly Wier and Sam Strecker
+Created by: Jack Goff
 
 To run the program: 
 1. Run the makefile ($ chmod a+x make)
